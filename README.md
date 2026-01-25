@@ -5,3 +5,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on New drug patient behaviour model
 - 🌱 I’m currently learning GRAG
 - 📫 How to reach me: reasow2011@gmail.com
+- Certifications: PMP, PMI-ACP, AWS Solution Architect, and Azure Fundamentals.
+- Industry Expertise: AML, Fintrac Reporting, and Open Banking.
